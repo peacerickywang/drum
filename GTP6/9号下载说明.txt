@@ -1,0 +1,27 @@
+                ╭═══════════════╮
+                ║          九号下载站        ║
+  ╭══════┤                              ├══════╮
+  ║            ║       http://www.9ht.com     ║            ║
+  ║            ╰═══════════════╯            ║
+  ║                                                          ║
+  ║    ╭═══════════════════════╮    ║
+  ║    ║                                              ║    ║
+  ║    ║                                              ║    ║
+  ╰══┤         绿色下载站：www.9ht.com              ├══╯
+        ║                                              ║
+        ║                                              ║
+        ╰═══════════════════════╯
+如果你下载的软件包需要密码,九号的密码一般都为：
+www.9ht.com    
+
+
+1运行guitarpro6-rev9063.exe进行安装软件
+
+2打开gtp6，会提示注册，点击离线注册。
+然后打开注册机keygen.exe，杀毒会报毒，实在不放心的你可以找个破烂不堪的电脑运行注册机。复制进去机器码，然后会生成注册码
+放到gtp6里面。注册就成功啦。
+3,下载音乐库文件。双击安装，他自动安装。成功后就行啦。音色库有1.1G哦，解压后是1.7G
+4替换简体补丁
+ 将文件覆盖到
+X:\Guitar Pro 6\Data\Translations
+（X为安装路径）
